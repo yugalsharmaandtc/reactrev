@@ -1,0 +1,3 @@
+1. The public folder can have images and other things like that
+
+2. assests under src also acts as a folder which can contain images and things like that
